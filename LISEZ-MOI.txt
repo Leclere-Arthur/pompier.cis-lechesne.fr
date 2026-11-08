@@ -1,21 +1,6 @@
-CIS LE CHESNE — MAQUETTE ANIMÉE
-
-Décompressez et ouvrez index.html pour regarder le site.
-Sept rubriques sur sept pages séparées, plus les mentions légales.
-Les informations et actualités restent fictives. Le formulaire n’envoie rien.
-
-POUR GITHUB
-Glissez tous les fichiers extraits, sauf ce LISEZ-MOI.txt, directement
-à la racine du dépôt pompier.cis-lechesne.fr, puis Commit changes.
-Les fichiers de même nom remplaceront l’ancienne version.
-La photo caserne-le-chesne.jpg et favicon.svg sont maintenant à la racine :
-aucun dossier assets à créer ou envoyer. L’ancien dossier peut rester.
-Conservez le domaine personnalisé pompier.cis-lechesne.fr et Pages main/racine.
-Après le déploiement, rechargez avec Ctrl+F5.
-
-Animations : entrée des titres, apparitions au défilement, compteurs,
-bandeau défilant, survols et fiches animées. Aucun effet de curseur.
-Les préférences de réduction des animations du système sont respectées.
-
-Les textes, coordonnées, chiffres et mentions légales seront à valider.
-Le référencement reste désactivé pendant cette phase de démonstration.
+MAQUETTE CIS LE CHESNE — mise à jour du 8 novembre 2026
+Ouvrir index.html. Les images sont incluses et fonctionnent sans connexion.
+Informations issues du tableau partiellement rempli et photographies fournies.
+Les rubriques non renseignées conservent leurs textes de démonstration.
+Le formulaire reste sans envoi. Aucune mise en ligne effectuée.
+À confirmer : 19 communes indiquées mais 21 noms dans la liste du secteur.
