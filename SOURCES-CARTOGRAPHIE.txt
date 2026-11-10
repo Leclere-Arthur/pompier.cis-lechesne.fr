@@ -1,0 +1,6 @@
+Secteur : liste des localités transmise par le CIS Le Chesne le 10 novembre 2026.
+Le Chesne, Les Alleux et Louvergny sont regroupées dans le contour de Bairon et ses environs ; toutes trois figurent dans la liste du centre.
+Contours : https://github.com/gregoiredavid/france-geojson — fichier communes-08-ardennes.geojson (IGN Admin Express COG, édition 2018).
+Fond cartographique provisoire : © les contributeurs OpenStreetMap, https://www.openstreetmap.org/copyright
+Affichage local : Leaflet 1.9.4, https://leafletjs.com/
+La zone de présentation est constituée de l’union des communes listées ; elle ne remplace pas une sectorisation opérationnelle du SDIS.

@@ -1,6 +1,5 @@
-MAQUETTE CIS LE CHESNE — mise à jour du 8 novembre 2026
-Ouvrir index.html. Les images sont incluses et fonctionnent sans connexion.
-Informations issues du tableau partiellement rempli et photographies fournies.
-Les rubriques non renseignées conservent leurs textes de démonstration.
-Le formulaire reste sans envoi. Aucune mise en ligne effectuée.
-À confirmer : 19 communes indiquées mais 21 noms dans la liste du secteur.
+CIS LE CHESNE — SITE DE PRÉSENTATION
+Contenus fictifs retirés. Les informations, photographies et l’actualité du centre sont conservées.
+Localisation : 18 rue du Zouave Coco, 08390 Le Chesne.
+Secteur : contours des communes de la liste transmise par le centre.
+Pour afficher ce secteur sur Google My Maps : importer secteur-cis-le-chesne.kml dans une nouvelle carte, activer son partage public, puis copier son identifiant mid dans maps-config.js. La carte Google remplacera automatiquement la carte du secteur.
