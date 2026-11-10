@@ -2,7 +2,7 @@
 const el=document.getElementById('sector-map');if(!el)return;
 const id=window.CIS_MAPS?.googleMyMapsId?.trim();
 if(id&&/^[a-zA-Z0-9_-]+$/.test(id)){
- const frame=document.createElement('iframe');frame.title='Google Maps : secteur défendu par le CIS Le Chesne';frame.src='https://www.google.com/maps/d/embed?mid='+encodeURIComponent(id);frame.loading='lazy';frame.allowFullscreen=true;el.append(frame);document.getElementById('sector-fit')?.remove();return;
+ const frame=document.createElement('iframe');frame.title='Google Maps : secteur défendu par le CIS Le Chesne';frame.src='https://www.google.com/maps/d/embed?mid='+encodeURIComponent(id)+'&noprof=1';frame.loading='lazy';frame.allowFullscreen=true;el.append(frame);document.getElementById('sector-fit')?.remove();return;
 }
 if(!window.L||!window.CIS_SECTEUR){el.innerHTML='<p class="map-failure">La carte ne peut pas être chargée. Les communes du secteur sont indiquées au-dessus.</p>';return;}
 const data=window.CIS_SECTEUR,map=L.map(el,{scrollWheelZoom:false});
